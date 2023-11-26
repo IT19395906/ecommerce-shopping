@@ -8,4 +8,6 @@ npm install react-router-dom
 
 npm install phosphor-react (for icons)
 
+hostinger for web hosting platform
+
 manage state with contextAPI
