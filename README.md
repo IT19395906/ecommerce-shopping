@@ -18,3 +18,5 @@ const getDefaultCart = () => {
 })
 ##### Context API allows data to be passed through a component tree without manual prop passing, making data sharing between components easier.
 ##### You can also consider using Redux for state management as an alternative to Context API
+
+https://youtu.be/tEMrD9t85v4?si=mTpkuZaAGzY0t_vc
